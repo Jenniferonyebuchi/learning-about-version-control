@@ -1,3 +1,4 @@
 # learning-about-version-control
 Author: Jennifer Ezinne Onyebuchi
-Solving merge conflicts is soooooo hard!
+
+<br>Solving merge conflicts takes conscious effort, but I can do it!<br>
